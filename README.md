@@ -1,6 +1,6 @@
-![news-image-20261123](https://make.fun/badge/news-image-20261123.svg)
-![rank](https://make.fun/badge/Harddisadega/news-image-20261123/rank.svg)
-![reward](https://make.fun/badge/Harddisadega/news-image-20261123/reward.svg)
+[![make.fun · news-image-20261123](https://make.fun/badge/news-image-20261123.svg)](https://make.fun/bounty/news-image-20261123?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261123)
+[![rank](https://make.fun/badge/news-image-20261123/Harddisadega/news-image-20261123/rank.svg)](https://make.fun/bounty/news-image-20261123/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261123)
+[![reward](https://make.fun/badge/news-image-20261123/Harddisadega/news-image-20261123/reward.svg)](https://make.fun/bounty/news-image-20261123?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261123)
 
 # The World in One Image — 23 November 2026
 
